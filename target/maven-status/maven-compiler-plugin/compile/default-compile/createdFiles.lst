@@ -1,0 +1,5 @@
+com\amarnath\rentcloud\rencloud_commons\App.class
+com\amarnath\rentcloud\rencloud_commons\model\EmployeeProfile.class
+com\amarnath\rentcloud\rencloud_commons\model\Vehicle.class
+com\amarnath\rentcloud\rencloud_commons\model\Customer.class
+com\amarnath\rentcloud\rencloud_commons\model\Employee.class
